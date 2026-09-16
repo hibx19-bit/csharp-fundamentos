@@ -1,4 +1,4 @@
-﻿/*
+/*
     NIVEL 1 — if
     Ejercicio 1 — Mayor de edad
     Pide la edad de una persona.
@@ -17,64 +17,3 @@ else
 {
     Console.WriteLine("No es mayor de edad.");
 }
-    //*Ejercicio 2 — 
-    // Número positivo 
-    // Pide un número entero.Comprueba si es mayor que 0.
-
-Console.Write("Introduce un número entero:"); 
-int? numero = int.Parse(Console.ReadLine()!);
-
-if (numero > 0)
-{
-    Console.WriteLine("El número es positivo.");
-}
-else
-{
-    Console.WriteLine("El número no es positivo.");
-}
-
-    // Ejercicio 4 — Temperatura
-    // Pide una temperatura.
-    // Si es superior a 30 grados, muestra:
-    // Hace calor
-
-Console.Write("Introduce la temperatura:");
-int? temperatura = int.Parse(Console.ReadLine()!);
-
-if (temperatura > 30)
-{
-    Console.WriteLine("Hace calor.");
-}
-
-// Ejercicio 8 — Calificación
-// Pide una nota y muestra:
-// • 0–4 → Suspenso
-// • 5–6 → Aprobado
-// • 7–8 → Notable
-// • 9–10 → Sobresaliente
-// Utiliza if, else if y else.
-
-Console.Write("Introduce una nota (0-10):");
-int? nota = int.Parse(Console.ReadLine()!);
-
-if (nota >= 0 && nota <= 4)
-{
-    Console.WriteLine("Suspenso");
-}
-else if (nota >= 5 && nota <= 6)
-{
-    Console.WriteLine("Aprobado");
-}
-else if (nota >= 7 && nota <= 8)
-{
-    Console.WriteLine("Notable");
-}
-else if (nota >= 9 && nota <= 10)
-{
-    Console.WriteLine("Sobresaliente");
-}
-else
-{
-    Console.WriteLine("Nota inválida. Debe estar entre 0 y 10.");
-}
-
