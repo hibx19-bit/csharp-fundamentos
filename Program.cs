@@ -17,7 +17,9 @@ else
 {
     Console.WriteLine("No es mayor de edad.");
 }
-//*Ejercicio 2 — Número positivo Pide un número entero.Comprueba si es mayor que 0.
+    //*Ejercicio 2 — 
+    // Número positivo 
+    // Pide un número entero.Comprueba si es mayor que 0.
 
 Console.Write("Introduce un número entero:"); 
 int? numero = int.Parse(Console.ReadLine()!);
@@ -29,4 +31,17 @@ if (numero > 0)
 else
 {
     Console.WriteLine("El número no es positivo.");
+}
+
+    // Ejercicio 4 — Temperatura
+    // Pide una temperatura.
+    // Si es superior a 30 grados, muestra:
+    // Hace calor
+
+Console.Write("Introduce la temperatura:");
+int? temperatura = int.Parse(Console.ReadLine()!);
+
+if (temperatura > 30)
+{
+    Console.WriteLine("Hace calor.");
 }
