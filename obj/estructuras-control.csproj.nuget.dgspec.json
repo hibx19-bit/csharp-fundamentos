@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Reserva6\\Desktop\\VisualStrudioCode\\programing pair\\csharp-fundamentos\\estructuras-control.csproj": {}
+    "C:\\Users\\Reserva6\\Desktop\\VisualStrudioCode\\programing pair\\csharp-fundamentos\\estructuras-control.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Reserva6\\Desktop\\VisualStrudioCode\\programing pair\\csharp-fundamentos\\estructuras-control.csproj": {
+    "C:\\Users\\Reserva6\\Desktop\\VisualStrudioCode\\programing pair\\csharp-fundamentos\\estructuras-control.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Reserva6\\Desktop\\VisualStrudioCode\\programing pair\\csharp-fundamentos\\estructuras-control.csproj",
+        "projectUniqueName": "C:\\Users\\Reserva6\\Desktop\\VisualStrudioCode\\programing pair\\csharp-fundamentos\\estructuras-control.csproj",
         "projectName": "estructuras-control",
-        "projectPath": "c:\\Users\\Reserva6\\Desktop\\VisualStrudioCode\\programing pair\\csharp-fundamentos\\estructuras-control.csproj",
+        "projectPath": "C:\\Users\\Reserva6\\Desktop\\VisualStrudioCode\\programing pair\\csharp-fundamentos\\estructuras-control.csproj",
         "packagesPath": "C:\\Users\\Reserva6\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Reserva6\\Desktop\\VisualStrudioCode\\programing pair\\csharp-fundamentos\\obj\\",
+        "outputPath": "C:\\Users\\Reserva6\\Desktop\\VisualStrudioCode\\programing pair\\csharp-fundamentos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
