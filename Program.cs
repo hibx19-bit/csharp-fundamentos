@@ -45,3 +45,36 @@ if (temperatura > 30)
 {
     Console.WriteLine("Hace calor.");
 }
+
+// Ejercicio 8 — Calificación
+// Pide una nota y muestra:
+// • 0–4 → Suspenso
+// • 5–6 → Aprobado
+// • 7–8 → Notable
+// • 9–10 → Sobresaliente
+// Utiliza if, else if y else.
+
+Console.Write("Introduce una nota (0-10):");
+int? nota = int.Parse(Console.ReadLine()!);
+
+if (nota >= 0 && nota <= 4)
+{
+    Console.WriteLine("Suspenso");
+}
+else if (nota >= 5 && nota <= 6)
+{
+    Console.WriteLine("Aprobado");
+}
+else if (nota >= 7 && nota <= 8)
+{
+    Console.WriteLine("Notable");
+}
+else if (nota >= 9 && nota <= 10)
+{
+    Console.WriteLine("Sobresaliente");
+}
+else
+{
+    Console.WriteLine("Nota inválida. Debe estar entre 0 y 10.");
+}
+

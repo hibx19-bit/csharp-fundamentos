@@ -4,5 +4,15 @@
   "success": true,
   "projectFilePath": "C:\\Users\\Reserva6\\Desktop\\VisualStrudioCode\\programing pair\\csharp-fundamentos\\estructuras-control.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problema al leer el archivo de caché C:\\Users\\Reserva6\\Desktop\\VisualStrudioCode\\programing pair\\csharp-fundamentos\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\Reserva6\\Desktop\\VisualStrudioCode\\programing pair\\csharp-fundamentos\\estructuras-control.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Reserva6\\Desktop\\VisualStrudioCode\\programing pair\\csharp-fundamentos\\estructuras-control.csproj",
+      "targetGraphs": []
+    }
+  ]
 }
