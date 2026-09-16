@@ -1,4 +1,4 @@
-﻿/*
+/*
     NIVEL 1 — if
     Ejercicio 1 — Mayor de edad
     Pide la edad de una persona.
