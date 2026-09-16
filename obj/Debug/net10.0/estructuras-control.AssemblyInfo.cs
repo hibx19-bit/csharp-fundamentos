@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("estructuras-control")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c3ae1413bca32accb0c945ff194fca703008b80")]
+>>>>>>> 3a04c3389c72adfdb27c97fd1646df9046aa911f
 [assembly: System.Reflection.AssemblyProductAttribute("estructuras-control")]
 [assembly: System.Reflection.AssemblyTitleAttribute("estructuras-control")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

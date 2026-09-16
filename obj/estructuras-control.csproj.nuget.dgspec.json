@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Alumno15\\Desktop\\proyecto-estructuras de control\\estructuras-control\\estructuras-control.csproj": {}
   },
   "projects": {
@@ -12,12 +13,61 @@
         "projectPath": "C:\\Users\\Alumno15\\Desktop\\proyecto-estructuras de control\\estructuras-control\\estructuras-control.csproj",
         "packagesPath": "C:\\Users\\Alumno15\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Alumno15\\Desktop\\proyecto-estructuras de control\\estructuras-control\\obj\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    "C:\\Users\\Reserva11\\Desktop\\EjercicioC#\\csharp-fundamentos\\estructuras-control.csproj": {}
+=======
+    "C:\\Users\\Reserva6\\Desktop\\VisualStrudioCode\\programing pair\\csharp-fundamentos\\estructuras-control.csproj": {}
+>>>>>>> bc98f12b8c4137737b87c3f0a3b5b6bf237b8f9c
+  },
+  "projects": {
+    "C:\\Users\\Reserva6\\Desktop\\VisualStrudioCode\\programing pair\\csharp-fundamentos\\estructuras-control.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Reserva6\\Desktop\\VisualStrudioCode\\programing pair\\csharp-fundamentos\\estructuras-control.csproj",
+        "projectName": "estructuras-control",
+<<<<<<< HEAD
+        "projectPath": "C:\\Users\\Reserva11\\Desktop\\EjercicioC#\\csharp-fundamentos\\estructuras-control.csproj",
+        "packagesPath": "C:\\Users\\Reserva11\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Reserva11\\Desktop\\EjercicioC#\\csharp-fundamentos\\obj\\",
+=======
+    "c:\\Users\\Reserva6\\Desktop\\VisualStrudioCode\\programing pair\\csharp-fundamentos\\estructuras-control.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Reserva6\\Desktop\\VisualStrudioCode\\programing pair\\csharp-fundamentos\\estructuras-control.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Reserva6\\Desktop\\VisualStrudioCode\\programing pair\\csharp-fundamentos\\estructuras-control.csproj",
+        "projectName": "estructuras-control",
+        "projectPath": "c:\\Users\\Reserva6\\Desktop\\VisualStrudioCode\\programing pair\\csharp-fundamentos\\estructuras-control.csproj",
+        "packagesPath": "C:\\Users\\Reserva6\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Reserva6\\Desktop\\VisualStrudioCode\\programing pair\\csharp-fundamentos\\obj\\",
+>>>>>>> 4d022d5a37b7e1120f25341e7c02e8d721b7bc58
+=======
+        "projectPath": "C:\\Users\\Reserva6\\Desktop\\VisualStrudioCode\\programing pair\\csharp-fundamentos\\estructuras-control.csproj",
+        "packagesPath": "C:\\Users\\Reserva6\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Reserva6\\Desktop\\VisualStrudioCode\\programing pair\\csharp-fundamentos\\obj\\",
+>>>>>>> bc98f12b8c4137737b87c3f0a3b5b6bf237b8f9c
+>>>>>>> 3a04c3389c72adfdb27c97fd1646df9046aa911f
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\Alumno15\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+          "C:\\Users\\Reserva11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\Reserva6\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 4d022d5a37b7e1120f25341e7c02e8d721b7bc58
+=======
+          "C:\\Users\\Reserva6\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> bc98f12b8c4137737b87c3f0a3b5b6bf237b8f9c
+>>>>>>> 3a04c3389c72adfdb27c97fd1646df9046aa911f
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

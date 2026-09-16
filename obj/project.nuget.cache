@@ -1,8 +1,38 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "90+OKRi1t1o=",
   "success": true,
   "projectFilePath": "C:\\Users\\Alumno15\\Desktop\\proyecto-estructuras de control\\estructuras-control\\estructuras-control.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  "dgSpecHash": "WJ0L46Clv6s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Reserva11\\Desktop\\EjercicioC#\\csharp-fundamentos\\estructuras-control.csproj",
+=======
+  "dgSpecHash": "ysRnLts1uXk=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Reserva6\\Desktop\\VisualStrudioCode\\programing pair\\csharp-fundamentos\\estructuras-control.csproj",
+>>>>>>> 4d022d5a37b7e1120f25341e7c02e8d721b7bc58
+=======
+  "dgSpecHash": "qtrapWLzYhQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Reserva6\\Desktop\\VisualStrudioCode\\programing pair\\csharp-fundamentos\\estructuras-control.csproj",
+>>>>>>> bc98f12b8c4137737b87c3f0a3b5b6bf237b8f9c
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problema al leer el archivo de caché C:\\Users\\Reserva6\\Desktop\\VisualStrudioCode\\programing pair\\csharp-fundamentos\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\Reserva6\\Desktop\\VisualStrudioCode\\programing pair\\csharp-fundamentos\\estructuras-control.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Reserva6\\Desktop\\VisualStrudioCode\\programing pair\\csharp-fundamentos\\estructuras-control.csproj",
+      "targetGraphs": []
+    }
+  ]
+>>>>>>> 3a04c3389c72adfdb27c97fd1646df9046aa911f
 }
