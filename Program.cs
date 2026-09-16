@@ -7,7 +7,7 @@
 */
 
 Console.Write("Introduce tu edad:"); //manda un mensaje
-int? edad =  int.Parse(Console.ReadLine()); //recoge el nombre
+int? edad =  int.Parse(Console.ReadLine()!); //recoge el nombre
 
 if (edad >= 18)
 {
@@ -16,4 +16,17 @@ if (edad >= 18)
 else
 {
     Console.WriteLine("No es mayor de edad.");
+}
+//*Ejercicio 2 — Número positivo Pide un número entero.Comprueba si es mayor que 0.
+
+Console.Write("Introduce un número entero:"); 
+int? numero = int.Parse(Console.ReadLine()!);
+
+if (numero > 0)
+{
+    Console.WriteLine("El número es positivo.");
+}
+else
+{
+    Console.WriteLine("El número no es positivo.");
 }
